@@ -1,1 +1,2 @@
 # Parallax-effect
+Developed a website incorporating a compelling parallax effect using HTML and CSS. This project showcases a mastery of front-end web development, where the parallax scrolling feature enhances the visual appeal and user engagement. The seamless integration of HTML and CSS ensures a smooth and immersive user experience, highlighting attention to detail in design and coding practices.
